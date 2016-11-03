@@ -1,7 +1,7 @@
 # source-nat-tool
 Tool to automate the creation of source NAT rules using FQDN objects
 
-The tool requires Junos PYEZ to work.
+The tool requires Juniper PYEZ to work.
 
 Work way
 
