@@ -1,0 +1,9 @@
+domain = 
+srx_management = 
+srx_user = 
+srx_pass = 
+srx_sourceip = 
+srx_srczone = 
+srx_dstzone = 
+srx_ruleset = 
+srx_natrule = 
